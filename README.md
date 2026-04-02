@@ -5,6 +5,8 @@
 TestGame和StriveGame的服务器脚本代码
 
 
+客户端地址：https://github.com/KBEngineLab/demo_kbengine_unity_rabbit
+
 -------------------------------------
 
 ##启动服务端
