@@ -62,7 +62,7 @@
 	    <databaseInterfaces>
 	    	<default>
 			<host> localhost</host> 
-			<databaseName> kbe </databaseName> 
+			<databaseName> kbe </databaseName>
 
 			<auth>  
 				<username> kbe </username>                                    <!-- Type: String -->
