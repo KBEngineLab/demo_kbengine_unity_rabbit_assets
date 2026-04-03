@@ -61,7 +61,7 @@
             </account_system>
 	    <databaseInterfaces>
 	    	<default>
-			<host> localhost</host> 
+			<host> 127.0.0.1</host>
 			<databaseName> kbe </databaseName>
 
 			<auth>  
