@@ -67,16 +67,16 @@ class Avatar(KBEngine.Entity,
 	def ReceiveChatMessage(self, str):
 		DEBUG_MSG("ReceiveChatMessage:%s" % (str))
 
-	def onReqItemList(itemList, equipList):
+	def onReqItemList( self ,itemList, equipList):
 		pass
 
-	def pickUp_re(item_info):
+	def pickUp_re( self ,item_info):
 		pass
-	def dropItem_re(itemId, dbid):
+	def dropItem_re( self ,itemId, dbid):
 		pass
-	def equipItemRequest_re(item_info, item_info2):
+	def equipItemRequest_re( self ,item_info, item_info2):
 		pass
-	def errorInfo(errorCode):
+	def errorInfo( self ,errorCode):
 		pass
 		
 class PlayerAvatar(Avatar):
